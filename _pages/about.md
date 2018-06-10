@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D. Topic
 ------
-I’m working on Data Management in a geo-distributed cloud environment. Currently, I'm in my 2<sup>nd</sup> year of Ph.D. During the first year, I was working on Virtual Machine Image management in geo-distributed data centers. The work results in a paper to appear soon in [CCGrid'18](https://ccgrid2018.seas.gwu.edu) with a system prototype, [Nitro](/publication/darrous-ccgrid18).
+I’m working on Data Management in a geo-distributed cloud environment. Currently, I'm in my 2<sup>nd</sup> year of Ph.D. During the first year, I was working on Virtual Machine Image management in geo-distributed data centers. The work results in a system prototype [Nitro](publication/darrous-ccgrid18) with a paper published in [CCGrid'18](https://ccgrid2018.seas.gwu.edu).
 
 **Keyword**: Data management, Geo-distributed Clouds, Wide-Area Networks, Distributes storage systems, Virtual Machine Images.
 
