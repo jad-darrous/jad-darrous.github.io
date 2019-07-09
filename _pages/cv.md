@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Informatics,
-École Normale Supérieure (ENS) de Lyon, 2019 (expected)
+* Ph.D. in Informatics, École Normale Supérieure (ENS) de Lyon, 2019 (expected)
 * M.S. in Parallel and Distributed Systems, Grenoble-Alpes University, 2016
 * B.S. in Computer science, Damascus University, 2012
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 Research Internships
@@ -68,12 +74,6 @@ Honors and Awards
   - I was a problems setter in many national contests.
 * The 8<sup>th</sup> place in the fourth annual Math Olympiad contest held by Department of mathematics, Damascus University 2012.
 * We won, as a team of three, the 3<sup>rd</sup> place in [Fikra Competition](http://www.ti-scs.org/news/view.php?id=20#mainTd) for our “Simple Geometry Solver” project, Damascus 2011.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!-- Talks
 ======
