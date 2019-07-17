@@ -1,7 +1,7 @@
 ---
 title: "Nitro: Network-Aware Virtual Machine Image Management in Geo-Distributed Clouds"
 collection: publications
-permalink: /publication/darrous-ccgrid18
+permalink: /publications/darrous-ccgrid18
 excerpt: 'This paper is about our system, Nitro, that is used to manage VM images in geo-distributed clouds.'
 date: 2018-01-01
 venue: '18th IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing'

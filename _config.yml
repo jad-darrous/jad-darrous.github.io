@@ -11,9 +11,10 @@ title                    : "Jad / My personal page"
 title_separator          : "-"
 name                     : &name "Jad Darrous"
 description              : &description "personal description"
-# url                      : http://perso.ens-lyon.fr/jad.darrous
-url                      : https://jad-darrous.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : http://perso.ens-lyon.fr
+baseurl                  : "/jad.darrous"
+# url                      : https://jad-darrous.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jad-darrous/jad-darrous.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)

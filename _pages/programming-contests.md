@@ -20,21 +20,13 @@ __<u>Word of wisdom:</u>__ I acquired sharp problem-solving skills due to my inv
 
 <!-- ![e](http://www.park.by/_img/000022_1512404559_big.jpg) -->
 
-<img src="/images/acm/logo.jpg">
-<img src="/images/acm/acm7.jpg">
-<img src="/images/acm/acm2.jpg">
-<img src="/images/acm/acm6.jpg">
-<img src="/images/acm/acm5.jpg">
-<img src="/images/acm/acm4.jpg">
-<img src="/images/acm/acm3.jpg">
-<img src="/images/acm/acm1.jpg">
 
 
-<!-- <img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/logo.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm7.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm2.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm6.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm5.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm4.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm3.jpg">
-<img src="http://perso.ens-lyon.fr/jad.darrous/images/acm/acm1.jpg"> -->
+<img src="../images/acm/logo.jpg">
+<img src="../images/acm/acm7.jpg">
+<img src="../images/acm/acm2.jpg">
+<img src="../images/acm/acm6.jpg">
+<img src="../images/acm/acm5.jpg">
+<img src="../images/acm/acm4.jpg">
+<img src="../images/acm/acm3.jpg">
+<img src="../images/acm/acm1.jpg">

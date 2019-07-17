@@ -1,7 +1,7 @@
 ---
 title: "On the Importance of Container Image Placement for Service Provisioning in the Edge"
 collection: publications
-permalink: /publication/darrous-icccn19
+permalink: /publications/darrous-icccn19
 excerpt: 'This paper is about container image placement algorithms to reduce the maximal retrieval time in Edge clouds.'
 date: 2019-05-03
 venue: '28th IEEE International Conference on Computer Communications and Networks'

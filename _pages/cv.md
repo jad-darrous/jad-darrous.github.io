@@ -15,13 +15,13 @@ Education
 * M.S. in Parallel and Distributed Systems, Grenoble-Alpes University, 2016
 * B.S. in Computer science, Damascus University, 2012
 
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 
 Research Internships
 ======
@@ -30,7 +30,7 @@ Research Internships
   * Supervisor: Bruno RAFFIN
   * Title: *A Programming and Data Model for In-Situ frameworks*
     + The goal was to design a new Programming and Data Model for In-Situ frameworks to ease the representation of expressiveness of complex scientific workflow.
-  * As [`.pdf`](/files/master-2-internship-report.pdf)
+  * As [`.pdf`](../files/master-2-internship-report.pdf)
 
 
 * May – Jul 2015: Master internship
@@ -38,7 +38,7 @@ Research Internships
   * Supervisors: Denis TRYSTRAM and Eric GAUSSIER
   * Title: *Improving the EASY-Backfilling scheduler using Machine Learning algorithms*
     + Improve the EASY-Backfilling scheduler in HPC environment using Machine Learning algorithm called Learning to Rank. An average improvement of 68% has been achieved in case the job run-time is already known.
-  * As [`.pdf`](/files/master-1-internship-report.pdf)
+  * As [`.pdf`](../files/master-1-internship-report.pdf)
 
 
 Work experience
@@ -95,5 +95,4 @@ Service and leadership
 
 <hr>
 
-As [`.pdf`](/files/CV_JAD_DARROUS_2019.pdf)
-<!-- As [`.pdf`](http://perso.ens-lyon.fr/jad.darrous/files/CV_JAD_DARROUS_2019.pdf) -->
+As [`.pdf`](../files/CV_JAD_DARROUS_2019.pdf)

@@ -1,7 +1,7 @@
 ---
 title: "Is it time to revisit Erasure Coding in Data-intensive clusters?"
 collection: publications
-permalink: /publication/darrous-mascots19
+permalink: /publications/darrous-mascots19
 excerpt: ''
 date: 2019-07-10
 venue: '27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems'
