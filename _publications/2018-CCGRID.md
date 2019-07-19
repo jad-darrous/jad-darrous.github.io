@@ -14,5 +14,4 @@ citation: 'J. Darrous, S. Ibrahim, A.C. Zhou, C. Perez. &quot;Nitro: Network-Awa
 <!-- [Download slides](../files/ccgrid-slides.pdf) -->
 Nitro source code is available [here](https://gitlab.inria.fr/jdarrous/nitro)
 
-<!-- Download the paper from [here](https://hal.inria.fr/hal-01745405) -->
 <!-- Conference acceptance rate is 20.8% -->

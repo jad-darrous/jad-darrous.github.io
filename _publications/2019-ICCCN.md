@@ -13,3 +13,5 @@ citation: 'Jad Darrous, Thomas Lambert, Shadi Ibrahim. "On the Importance of Con
 
 <!-- [Download slides](../files/ccgrid-slides.pdf) -->
 Simulator source code is available [here](https://gitlab.inria.fr/jdarrous/image-placement-edge)
+
+<!-- Conference acceptance rate is 29% -->
