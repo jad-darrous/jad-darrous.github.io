@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-07-10
 venue: '27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems'
 paperurl: '(TO APPEAR)'
-citation: '<font color="blue">[ACCEPTED]</font> J. Darrous, S. Ibrahim, C. Perez. &quot;Is it time to revisit Erasure Coding in Data-intensive clusters?&quot; <i>MASCOTS</i>, Oct 2019, Rennes, France.'
+citation: '<font color="blue">[ACCEPTED]</font> J. Darrous, S. Ibrahim, C. Perez. "Is it time to revisit Erasure Coding in Data-intensive clusters?". In Proceedings of the <i>27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS 19)</i>, Oct. 2019, Rennes, France.'
 ---
 
 **Abstract** - Data-intensive clusters are heavily relying on distributed storage systems to accommodate the unprecedented growth of data. Hadoop distributed file system (HDFS) is the primary storage for Big Data analytic frameworks such as Spark and Hadoop. Traditionally, HDFS operates under replication to ensure data availability and to allow locality-aware task execution of data-intensive applications.

@@ -15,7 +15,9 @@ In 2011, my country starts to be more involved in the competition and organized 
 
 From 2012 and for two years, I co-trained and co-coached the teams that are qualified for the regional tier. At the same time, I played the role of judge and problem setter in many national and local tier contests.
 
-__<u>Word of wisdom:</u>__ I acquired sharp problem-solving skills due to my involvement in the competition for around 5 years, as the ultimate goal is to solve predefined and well-specified problems accurately and as fast as possible. However, after starting my Ph.D., I realized that sometimes, finding and defining the problem is as difficult as solving it, even more difficult. Now, it makes me happy working in the research world with invaluable experience in problems solving.
+<!-- __<u>Word of wisdom:</u>__ I acquired sharp problem-solving skills due to my involvement in the competition for around 5 years, as the ultimate goal is to solve predefined and well-specified problems accurately and as fast as possible. However, after starting my Ph.D., I realized that sometimes, finding and defining the problem is as difficult as solving it, even more difficult. Now, it makes me happy working in the research world with invaluable experience in problems solving. -->
+
+>> In this kind of competitions, the ultimate goal is to solve predefined and well-specified problems accurately, and as fast as possible. However, after starting my Ph.D., I realized that sometimes, finding and defining the problem is as difficult as solving it, if not more difficult. Now, it makes me happy working in the research world with invaluable experience in problems solving.
 
 
 <!-- ![e](http://www.park.by/_img/000022_1512404559_big.jpg) -->

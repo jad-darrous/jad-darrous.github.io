@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jad Darrous"
   avatar           : "my_photo.jpg"
-  bio              : "Ph.D student working on data management in the cloud."
+  bio              : "Ph.D. student working on Data Management related topics."
   location         : "Lyon, France"
   employer         : inria
   googlescholar    :
@@ -186,6 +186,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -247,6 +250,15 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
     values:
       layout: single
       author_profile: true
