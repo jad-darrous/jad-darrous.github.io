@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-Publications in international conferences
+Papers in international conferences
 ------
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
@@ -31,7 +31,7 @@ Posters in international conferences
 {% endfor %}</ul>
 
 
-Publications in national conferences
+Papers in national conferences
 ------
-+ J. Darrous, **On the (In)Efficiency of IPFS for Geo-distributed Virtual Machine Images Management** in Conférence en Parallelisme, Architecture et Système (ComPAS 2017) - Jun. 2017, Sophia-Antipolis, France. <br/>
++ Jad Darrous, **On the (In)Efficiency of IPFS for Geo-distributed Virtual Machine Images Management** in Conférence en Parallelisme, Architecture et Système (ComPAS 2017) - Jun. 2017, Sophia-Antipolis, France. <br/>
 [NO PROCEEDINGS]
