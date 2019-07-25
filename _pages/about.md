@@ -30,13 +30,17 @@ Ph.D. Topic
 I'm working on topics related to Data Management in a single data center and geographically distributed clouds environments.
 
 <!-- As a member of [DISCOVERY Initiative](http://beyondtheclouds.github.io),  -->
-The first part of my Ph.D. was dedicated for improving service provisioning in geo-distributed clouds and Fog/Edge environments. We worked on network-aware retrieval of Virtual Machine Images in geo-distributed clouds and on the network-aware placement of container images in Edge environment (for more details, our work led to two publications [here](publications/darrous-ccgrid18) and [here](publications/darrous-icccn19)).
+The first part of my Ph.D. was dedicated to improve service provisioning in geo-distributed clouds and Fog/Edge environments. We worked on network-aware retrieval of Virtual Machine Images in geo-distributed clouds and on the network-aware placement of container images in Edge environment (for more details, our work led to two publications [here](publications/darrous-ccgrid18) and [here](publications/darrous-icccn19)).
 
-Currently, I'm focusing on reducing the storage cost of data intensive clusters. More specifically, we study the opportunities and the challenges in integrating *erasure coding* for online data analytics. As a first step, through an in-depth performance evaluation study we evaluate how analytic workloads, data persistency, failures, the back-end storage devices, and the network configuration impact the performance for MapReduce jobs running under erasure coding and replication (this work led to a publication [here](publications/darrous-mascots19)). Moreover, a poster about data processing in Fog can be found [here](posters/darrous-icpp19).
+Currently, I'm focusing on reducing the storage cost of data-intensive clusters without scarifying data availability. More specifically, we study the opportunities and the challenges in integrating *Erasure Coding* (EC) for online data analytics. As a first step, through an in-depth performance evaluation study we evaluate how analytic workloads, data persistency, failures, the back-end storage devices, and the network configuration impact the performance for MapReduce jobs running under erasure coding and replication (this work led to a publication [here](publications/darrous-mascots19)). Moreover, a poster about data processing in Fog can be found [here](posters/darrous-icpp19).
 
 <!-- **Keyword**: Data management, Geo-distributed Clouds, Wide-Area Networks, Distributes storage systems, Virtual Machine Images. -->
 
-Briefly, The subject of this thesis is a scalable and efficient data management for building and running data intensive services.
+Briefly, the subject of my thesis is about scalable and efficient data management for building and running data-intensive services.
+
+<!-- I'm open for future opportunities as a post-doc.
+At the same time, I'm interested in a research/R&D position in enterprises/start-ups dealing with big data challenges. -->
+
 
 Research Project
 ------
