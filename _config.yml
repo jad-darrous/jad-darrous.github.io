@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jad Darrous"
   avatar           : "my_photo.jpg"
-  bio              : "Ph.D. student working on Data Management related topics."
+  bio              : "Ph.D. student working on Data Management in large-scale systems."
   location         : "Lyon, France"
   employer         : inria
   googlescholar    :
