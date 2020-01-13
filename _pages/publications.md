@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %} -->
 
 
+Ph.D. thesis
+------
+<ul>{% for post in site.phdthesis %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 
 Papers in international conferences
 ------

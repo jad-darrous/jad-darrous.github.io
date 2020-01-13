@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Informatics, École Normale Supérieure (ENS) de Lyon, 2019 (expected)
+* Ph.D. in Informatics, École Normale Supérieure (ENS) de Lyon, 2019
 * M.S. in Parallel and Distributed Systems, Grenoble-Alpes University, 2016
 * B.S. in Computer science, Damascus University, 2012
 
@@ -22,6 +22,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
+Professional experience
+======
+* Jan 2020 - Jun 2020: Research Engineer
+  * Inria Rennes Bretagne-Atlantique, IMT Nantes, STACK team.
+  * Research Engineer, working with Shadi Ibrahim
+  * Cost-efficient stream data processing under erasure coding.
+
+
+* Jan 2013 - August 2014: Software Developer
+  * Syrian Educational Publisher Co., for E-Publishing and E-learning
+  * Small-sized company of 13 developers applying Scrum agile methodology.
+  * Accomplished tasks:
+    - Extend the core libraries to cover more of the EPUB3 spec.
+    - Implement Unit Testing for the core libraries with code coverage of 70%.
+    - Develop 60% of the Android application (Epub3 Viewer).
+    - Implement the first prototype of the GWT website.
+    - Implements synchronization between applications running on different devices.
+
 
 Research Internships
 ======
@@ -39,19 +58,6 @@ Research Internships
   * Title: *Improving the EASY-Backfilling scheduler using Machine Learning algorithms*
     + Improve the EASY-Backfilling scheduler in HPC environment using Machine Learning algorithm called Learning to Rank. An average improvement of 68% has been achieved in case the job run-time is already known.
   * As [`.pdf`](../files/master-1-internship-report.pdf)
-
-
-Work experience
-======
-* Jan 2013 - August 2014: Software Developer
-  * Syrian Educational Publisher Co., for E-Publishing and E-learning
-  * Small-sized company of 13 developers applying Scrum agile methodology.
-  * Accomplished tasks:
-    - Extend the core libraries to cover more of the EPUB3 spec.
-    - Implement Unit Testing for the core libraries with code coverage of 70%.
-    - Develop 60% of the Android application (Epub3 Viewer).
-    - Implement the first prototype of the GWT website.
-    - Implements synchronization between applications running on different devices.
 
 
 Skills
@@ -95,4 +101,4 @@ Service and leadership
 
 <hr>
 
-As [`.pdf`](../files/CV_JAD_DARROUS_2019.pdf)
+As [`.pdf`](../files/CV_JAD_DARROUS_1P_2020.pdf)

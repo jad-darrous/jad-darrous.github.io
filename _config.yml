@@ -82,9 +82,9 @@ author:
   name             : "Jad Darrous"
   avatar           : "my_photo.jpg"
   bio              : "Ph.D. student working on Data Management in large-scale systems."
-  location         : "Lyon, France"
+  location         : "Nantes, France"
   employer         : inria
-  googlescholar    :
+  googlescholar    : https://scholar.google.fr/citations?hl=en&user=EbjnBIgAAAAJ
   email            : jad.darrous@inria.fr
   uri              :
   bitbucket        :
@@ -188,6 +188,9 @@ collections:
   posters:
     output: true
     permalink: /:collection/:path/
+  phdthesis:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -263,6 +266,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _phdthesis
+  - scope:
+      path: ""
+      type: phdthesis
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 # Sass/SCSS
 sass:
