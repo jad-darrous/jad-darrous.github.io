@@ -5,8 +5,8 @@ permalink: /phdthesis/darrous-thesis
 excerpt: ''
 date: 2019-12-17
 venue: 'Library of ENS de Lyon'
-# paperurl: 'https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/data/phdthesis/Poster14-abst.pdf'
-citation: 'Jad Darrous. "Scalable and Efficient Data Management in Distributed Clouds: Service Provisioning and Data Processing". PhD thesis, Dec. 2019, ENS de Lyon, France.'
+paperurl: 'https://hal.inria.fr/tel-02501316'
+citation: 'Jad Darrous. "Scalable and Efficient Data Management in Distributed Clouds: Service Provisioning and Data Processing". Ph.D. thesis, Dec. 2019, ENS de Lyon, France.'
 ---
 
 **Abstract**
