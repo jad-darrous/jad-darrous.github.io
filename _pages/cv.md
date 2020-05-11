@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Informatics, École Normale Supérieure (ENS) de Lyon, 2019
-* M.S. in Parallel and Distributed Systems, Grenoble-Alpes University, 2016
-* B.S. in Computer science, Damascus University, 2012
+* Ph.D. in Computer science, École Normale Supérieure (ENS) de Lyon, Lyon, France, 2019.
+* M.S. in Computer science, Grenoble-Alpes University, Grenoble, France, 2016.
+* B.S. in Computer science, Damascus University, Damascus, Syria, 2012.
 
 <!--
 Publications
@@ -27,11 +27,10 @@ Professional experience
 ======
 * Jan 2020 - Jun 2020: Research Engineer
   * Inria Rennes Bretagne-Atlantique, IMT Nantes, STACK team.
-  * Research Engineer, working with Shadi Ibrahim
-  * Cost-efficient stream data processing under erasure coding.
+  * Implement dynamic erasure-coding chunk scheduling in Hadoop DFS.
 
 
-* Jan 2013 - August 2014: Software Developer
+* Jan 2013 - Aug 2014: Software Developer (Java)
   * Syrian Educational Publisher Co., for E-Publishing and E-learning
   * Small-sized company of 13 developers applying Scrum agile methodology.
   * Accomplished tasks:
@@ -47,8 +46,8 @@ Research Internships
 * Feb - Jun 2016: Master graduation internship
   * Inria Grenoble Rhône-Alpes research center
   * Supervisor: Bruno RAFFIN
-  * Title: *A Programming and Data Model for In-Situ frameworks*
-    + The goal was to design a new Programming and Data Model for In-Situ frameworks to ease the representation of expressiveness of complex scientific workflow.
+  * Title: *A Programming and Data Model for in-situ Frameworks*
+    + The goal was to design a new programming and data model for in-situ frameworks (e.g., FlowVR) to ease the representation and the expressiveness of complex scientific workflow while reducing the performance overhead.
   * As [`.pdf`](../files/master-2-internship-report.pdf)
 
 
@@ -56,19 +55,17 @@ Research Internships
   * Inria Grenoble Rhône-Alpes research center
   * Supervisors: Denis TRYSTRAM and Eric GAUSSIER
   * Title: *Improving the EASY-Backfilling scheduler using Machine Learning algorithms*
-    + Improve the EASY-Backfilling scheduler in HPC environment using Machine Learning algorithm called Learning to Rank. An average improvement of 68% has been achieved in case the job run-time is already known.
+    + Improve the EASY-Backfilling scheduler in HPC environment using a machine learning algorithm called Learning to Rank. An average improvement of 68% has been achieved in case the job run-time is already known.
   * As [`.pdf`](../files/master-1-internship-report.pdf)
 
 
 Skills
 ======
-* Programming languages
-  * C++, >10K LOC, programming competitions
-  * Java, >10K LOC, professional experience
-  * Python, 5K-10 LOC, research prototyping
-* Good experience with (SQL and NoSQL) databases.
-* Good experience in network programming and multi-threading.
-* Familiar with the topics related to Natural Language Processing, Data Mining and Machine Learning
+* Programming languages: Python, Java, and C++.
+* Frameworks and tools: Hadoop, Spark, Docker, OpenStack, Ansible, Vagrant, and Git.
+* Academic experience in Natural Language Processing, Data Mining and Machine Learning.
+* Familiar with mobile (android) and web (front-end and back-end) technologies.
+* Critical thinking, creative problem-solving, teamwork spirit, and writing skills.
 
 
 Honors and Awards
@@ -101,4 +98,4 @@ Service and leadership
 
 <hr>
 
-As [`.pdf`](../files/CV_JAD_DARROUS_1P_2020.pdf)
+Download: [single-page](../files/Resume_Jad_DARROUS.pdf) [full](../files/CV_JAD_DARROUS_2020.pdf)

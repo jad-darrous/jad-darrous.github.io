@@ -1,5 +1,5 @@
 ---
-title: "Graduation Project: Hand Gesture Recognition and Fingers Detection"
+title: "Hand Gesture Recognition and Fingers Detection (Graduation Project)"
 collection: projects
 permalink: /projects/gesture-recognition
 excerpt: 'Detect and recognize the hand, hand gesture and fingers gestures from Kinect depth sensor.'
